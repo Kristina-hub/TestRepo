@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return render_template('index.php')
+    return render_template('junk.php')
 
 
 # from flask import Flask
