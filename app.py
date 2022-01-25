@@ -11,10 +11,15 @@
 from flask import Flask, render_template, request, url_for, redirect, jsonify
 from flask.globals import request
 app = Flask(__name__)
+# app = Flask(__name__,
+#             static_url_path='', 
+#             static_folder='/var/www/TestRepo/static',
+#             template_folder='/var/www/TestRepo/templates')
 
 '''---------------From file.py import class----------------'''
 
-from static.py.read_file import ReadFile					
+from read_file import ReadFile
+#from static.py.read_file import ReadFile					
 #from static.py.extract_dates import ExtractDates
 #from static.py.output import Output
 
