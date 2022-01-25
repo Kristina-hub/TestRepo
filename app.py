@@ -52,7 +52,7 @@ def upload():
  	#dates = ExtractDates.dates_func(text)
  	#Output.output_func(dates)
  	#message = text + "<br/>" + dates
- 	message = "test"
+ 	message = text
  	return message
 	
 	
