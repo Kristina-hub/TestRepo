@@ -1,0 +1,182 @@
+Department of Computer Science
+COURSE DESCRIPTION
+In contrast to “traditional programming”, where a computer processes some output from a program
+and data, machine learning uses data and output to produce a program which can be used to
+characterize new data, inferring implicit patterns from said data to predict appropriate outputs. As a
+computing paradigm, machine learning has been influential, with numerous applications: a computer
+beating a world champion at Go; a digital assistant correctly recognizing and responding to your
+queries; a self-driving car; a robot walking up a flight of stairs; early identification of tumours.
+In this course we will explore the foundations of machine learning and relevant statistical methods.
+1. Course Information
+Course Information
+DATASCI3000A or COMPSCI 9637A/9114A - “Introduction to Machine Learning”, Fall 2021, in person,
+Tuesdays and Thursdays from 2:30 PM to 4:30 PM EST in NCB 113
+List of Prerequisites
+1. Data Science 1200A/B or Computer Science 1026A/B or Computer Science 1027A/B or
+Computer Science 2120A/B or Digital Humanities 2220A/B or Engineering Science 1036A/B or
+Data Science 2000A/B or Integrated Science 2002B or Statistical Sciences 2864A/B
+2. Data Science 2000A/B or Integrated Science 2002B or Statistical Sciences 2857A/B or 0.5
+course from the Introductory Statistics Course List;
+3. Mathematics 1600A/B or Numerical and Mathematical Methods 1411A/B or the former
+Applied Mathematics 1411A/B or Data Science 2100A
+4. Calculus 1000A/B or Calculus 1500A/B or Numerical and Mathematical Methods 1412A/B or
+the former Applied Mathematics 1412A/B or Data Science 2100A.
+* Note that Data Science 2000A/B, Integrated Science 2002B and Data Science 2100A can be
+used to fulfill multiple prerequisites.
+List of Antirequisites
+The former Computer Science 4414A/B, the former Statistical Sciences 3850F/G, the former
+Software Engineering 4460A/B
+Unless you have either the requisites for this course or written special permission from your Dean to
+enroll in it, you may be removed from this course and it will be deleted from your record. This decision
+may not be appealed. You will receive no adjustment to your fees in the event that you are dropped
+from a course for failing to have the necessary prerequisites.
+2. Instructor Information
+Jacob Morra, Lecturer, jmorra6@uwo.ca
+Office: MC 365
+Students must use their Western (@uwo.ca) email addresses when contacting their instructors. In the
+subject of the email, students should indicate the course number.
+3. Course Syllabus, Schedule, Delivery Mode
+The course aims to cover the following topics (subject to change and not necessarily in this order):
+ Supervised learning and model fitting
+ Probabilistic foundations of machine learning
+ Estimating performance and quantifying uncertainty
+ Model selection, cross-validation, and regularisation
+ Hypotheses, Randomization, and Inference
+ Classification and Logistic regression
+ Support Vector machines and other kernel methods
+ Clustering
+ Trees
+ Dimensionality reduction
+ Artificial Neural Networks
+The course will be delivered in person on Tuesdays (Lecture) and Thursdays (Lab) from 2:30 to 4:30 PM
+EST.
+Classes begin: September 8
+Reading Week: November 1-7
+Classes end: December 8
+4. Course Materials
+Text Books (Recommended):
+ The Elements of Statistical Learning (Hastie, Tibshirani, Friedman): [Free online]
+ Machine Learning: a Probabilistic Perspective (Murphy) [Free online]
+Students should check OWL (http://owl.uwo.ca) on a regular basis for news and updates. This is the
+primary method by which information will be disseminated to all students in the class. Students are
+responsible for checking OWL on a regular basis.
+All course material will be posted to OWL: http://owl.uwo.ca.
+If students need assistance, they can seek support on the OWL Help page. Alternatively, they can
+contact the Western Technology Services Helpdesk. They can be contacted by phone at 519-661-3800
+or ext. 83800.
+Technical Requirements
+A computer for completion of course assessments (i.e. assignments, midterm, final exam).
+5. Methods of Evaluation
+The overall course grade will be calculated as listed below:
+Undergraduate
+Assignments 40 %
+Midterm Exam 25 %
+Final Exam 35 %
+Graduate
+Assignments 40 %
+Midterm Exam 25 %
+Final Project 35 %
+Assignment due dates (tentative):
+Assignment 1 – September 23rd @ 11:59 PM EST
+Assignment 2 – September 30th @ 11:59 PM EST
+Assignment 3 – October 14th @ 11:59 PM EST
+Assignment 4 – October 21st @ 11:59 PM EST
+Assignment 5 – November 18th @ 11:59 PM EST
+Assignment 6 – November 25th @ 11:59 PM EST
+The lowest assignment mark will be dropped; because of this, no accommodations for late or missed
+assignments will be given. Late assignments will not be graded.
+Midterm:
+The midterm will be held on Thursday, October 28th from 2:30 to 4:30 PM EST in NCB 113. The midterm
+will cover all lecture materials up to that point (i.e. all content from Week 1 to Week 6).
+Accommodated Evaluations
+If you are unable to meet a course requirement due to illness or other serious circumstances, you must
+seek approval for the absence as soon as possible. Approval can be granted either through a selfreporting
+of absence or via the Dean’s Office/Academic Counselling unit of your Home Faculty. If you
+are a Science student, the Academic Counselling Office of the Faculty of Science is located in NCB 280,
+and can be contacted at scibmsac@uwo.ca.
+For further information, please consult the university’s policy on academic consideration for student
+absences:
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic_Consideration_for_absences.
+%0Apdf.
+6. Accommodation and Accessibility
+Accommodation Policies
+Students with disabilities work with Accessible Education (formerly SSD) which provides
+recommendations for accommodation based on medical documentation or psychological and
+cognitive testing. The Academic Accommodation for Students with Disabilities policy can be found at:
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic Accommodation_disabilities.pdf
+Academic Consideration for Student Absence
+Students will have up to two (2) opportunities during the regular academic year to use an on-line portal
+to self-report an absence during the semester, provided the following conditions are met: the absence
+is no more than 48 hours in duration, and the assessment for which consideration is being sought is
+worth 30% or less of the student’s final grade. Students are expected to contact their instructors within
+24 hours of the end of the period of the self-reported absence, unless noted on the syllabus. Students
+are not able to use the self-reporting option in the following circumstances:
+ for exams scheduled by the Office of the Registrar (e.g., December and April exams)
+ absence of a duration greater than 48 hours,
+ assessments worth more than 30% of the student’s final grade,
+ if a student has already used the self-reporting portal twice during the academic year
+If the conditions for a Self-Reported Absence are not met, students will need to provide a Student
+Medical Certificate if the absence is medical, or provide appropriate documentation if there are
+compassionate grounds for the absence in question. Students are encouraged to contact their Faculty
+academic counselling office to obtain more information about the relevant documentation.
+Students should also note that individual instructors are not permitted to receive documentation
+directly from a student, whether in support of an application for consideration on medical grounds, or
+for other reasons. All documentation required for absences that are not covered by the Self-Reported
+Absence Policy must be submitted to the Academic Counselling office of a student's Home Faculty.
+For policy on Academic Consideration for Student Absences - Undergraduate Students in First Entry
+Programs, see:
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic_Consideration_for_absences.pdf
+and for the Student Medical Certificate (SMC), see:
+http://www.uwo.ca/univsec/pdf/academic_policies/appeals/medicalform.pdf
+Religious Accommodation
+Students should consult the University's list of recognized religious holidays, and should give
+reasonable notice in writing, prior to the holiday, to the Instructor and an Academic Counsellor if their
+course requirements will be affected by a religious observance. Additional information is given in the
+Western Multicultural Calendar:
+https://multiculturalcalendar.com/ecal/index.php?s=c-univwo
+You may also be eligible to write the Special Exam if you are in a “Multiple Exam Situation” (see
+http://www.registrar.uwo.ca/examinations/exam_schedule.html).
+If a student fails to write a scheduled Special Examination, the date of the next Special Examination (if
+granted) normally will be the scheduled date for the final exam the next time this course is offered. The
+maximum course load for that term will be reduced by the credit of the course(s) for which the final
+examination has been deferred. See Academic Calendar for details (under Special Examinations).
+7. Academic Policies
+The website for Registrarial Services is http://www.registrar.uwo.ca.
+In accordance with policy, http://www.uwo.ca/its/identity/activatenonstudent.html, the centrally
+administered e-mail account provided to students will be considered the individual’s official university
+e-mail address. It is the responsibility of the account holder to ensure that e-mail received from the
+University at his/her official university address is attended to in a timely manner.
+Contingency plan for an in-person class pivoting to 100% online learning
+In the event of a COVID-19 resurgence during the course that necessitates the course delivery moving
+away from face-to-face interaction, all remaining course content will be delivered entirely online,
+either synchronously (i.e., at the times indicated in the timetable) or asynchronously (e.g., posted on
+OWL for students to view at their convenience). The grading scheme will not change. Any remaining
+assessments will also be conducted online as determined by the course instructor.
+Scholastic offences are taken seriously and students are directed to read the appropriate policy,
+specifically, the definition of what constitutes a Scholastic Offence, at the following Web site:
+http://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf.
+All required papers may be subject to submission for textual similarity review to the commercial
+plagiarism detection software under license to the University for the detection of plagiarism. All papers
+submitted for such checking will be included as source documents in the reference database for the
+purpose of detecting plagiarism of papers subsequently submitted to the system. Use of the service is
+subject to the licensing agreement, currently between The University of Western Ontario and
+Turnitin.com (http://www.turnitin.com).
+8. Support Services
+Please visit the Science & Basic Medical Sciences Academic Counselling webpage for information on
+add/drop courses, academic considerations for absences, appeals, exam conflicts, and many other
+academic related matters: https://www.uwo.ca/sci/counselling/
+Please contact the course instructor if you require lecture or printed material in an alternate format or
+if any other arrangements can make this course more accessible to you. You may also wish to contact
+Student Accessibility Services (SAS) at (519) 661-2147 if you have any questions regarding
+accommodations.
+Western University is committed to a thriving campus as we deliver our courses in the mixed model of
+both virtual and face-to-face formats. We encourage you to check out the Digital Student Experience
+website to manage your academics and well-being: https://www.uwo.ca/se/digital/.
+Learning-skills counsellors at the Student Development Centre (http://www.sdc.uwo.ca) are ready to
+help you improve your learning skills. They offer presentations on strategies for improving time
+management, multiple-choice exam preparation/writing, textbook reading, and more. Individual
+support is offered throughout the Fall/Winter terms in the drop-in Learning Help Centre, and yearround
+through individual counselling.
+Students who are in emotional/mental distress should refer to Mental Health@Western
+(http://www.health.uwo.ca/mental_health) for a complete list of options about how to obtain help.
+Additional student-run support services are offered by the USC, http://westernusc.ca/services.

@@ -1,0 +1,245 @@
+Introduction to Databases: CS3319
+(Tue Sep 07, 2021 12:00 AM - Fri Dec 31, 2021 12:00 AM)
+Western University
+
+London Ontario 
+Department of Computer Science
+
+CS3319a & CS3120a  & Digital Humanities 3320a cross-listed with CS9159a/b
+Introduction to Databases
+Course Description - Fall 2021
+
+1. COURSE INFORMATION
+This course introduces student to database management systems. The course discusses how to design a database for a real application. Design of good relational tables is followed by the use of these tables. The standard SQL data manipulation language will be used. Following the logical design phase, we discuss issues of physical storage structures and indexes. Finally, issues of backup and recovery, concurrency control and data distribution will be introduced.
+The intent is to prepare students to design a useful database for a small enterprise. Students should have a basic grounding in all the fundamentals of programming. 
+This year the course will be blended again (it was blended before the pandemic).  The lectures are all videos which you must watch online on your own time. We will only meet as a class every TWO weeks to work on in-class practice exercise questions (FLIPPED CLASSROOM STYLE).  Students should come to the very first lecture where we go over how the course will be run. Students MUST come to the 5 scheduled flipped classroom dates well-prepared (i.e. have watched the video lectures and completed the required quiz)  but are not required to come to class any of the other times. Marks are given towards your final grade for attending these flipped classroom sessions!
+Prerequisites: Computer Science 2210A/B and Computer Science 2211A/B  OR Computer Science 2121A/B OR Digital Humanities 2221A/B OR enrollment in the MDA program
+
+Antirequisites: Software Engineering 3352A/B
+
+Unless you have either the prerequisites for this course or written special permission from your academic counsellor, you will be removed from this course. This decision may not be appealed. You will receive no adjustment to your fees in the event that you are dropped from a course for failing to have the necessary prerequisites.
+2. INSTRUCTOR INFORMATION
+Name: Laura Reid
+Office: Middlesex College 416
+Office Hours: Mondays: 1pm-2pm and Wednesday: 10am-11am, other times by appointment. My office hours will both be in-person and/or via zoom. If you come to my office for in-person office hours, please wear a mask until Western advices otherwise. 
+Email: lreid@csd.uwo.ca
+3. SCHEDULE AND DELIVERY MODE
+ 
+Lecture Topics:
+Week 1 Topics - Introduction, ER Diagrams
+Week 2 Topics - Network Model, Hierarchical Model, Relational Model
+Week 3 Topics - Physical Data Access Methods --> Hashing Techniques, Indexes
+Week 4 Topics - Relational Algebra
+Week 5 Topics - SQL and Setting Up Your Virtual Machines
+Week 6 Topics - Relational Calculus, QBE, Converting EER Diagrams to the Relational Model
+Week 7 Topics - MySQL, PHP, JavaScript, HTML, CSS - Assignment 3 Information
+Week 8 Topics - System Catalog, Database Security, Triggers and Stored Procedures
+Week 9 Topics - Functional Dependencies and Normalization and Query Optimization
+Week 10 Topics - Transaction Processing, Concurrency Control, Recovery Techniques
+NOTE: the above schedule is subject to change depending on timing.
+Class Times and Location:
+All lectures are recorded and online.  In Owl, select Week By Week along the left side and select each week to watch the lecture videos. 
+You must come to class the dates of the five blended classrooms. Attendance is mandatory.  See dates of the 5 flipped classrooms below. 
+The 5 QUIZZES are roughly every other Monday. The Owl quiz will be open from 11AM till 1PM. You will get about 30 minutes to complete the Owl quiz. SEE DATES BELOW.
+TA Consulting Hours:
+To Be Announced
+4. COURSE MATERIALS
+Required Textbook: Fundamentals of Database Systems, Seventh Edition.  Elmasri & Navathe, Addison-Wesley Publishers, 2011.  (The Fifth or Sixth Edition is also OK, as the chapters we use have not changed much, they’ve just moved the chapters around.) 
+Lecture Notes: See OWL
+Course Website:
+
+See OWL - Please check the announcements section of OWL and your email at least every 48 hours: It is your responsibility not to miss any announcements or class emails.
+Required Software:
+
+You MUST purchase (roughly 20 dollars) a subscription to https://www.kritik.io/ in order to participate in the peer marking. THIS IS A REQUIRED PURCHASE. You may not take the course without making this purchase as you will not be able to complete part of each assignment without this software. 
+
+ 
+
+5. METHODS OF EVALUATION
+Student Evaluation and Schedule:
+
+Evaluation	Description	Weight	Due Date and Time	
+Self Reported Absence (SRA) and Valid Academic Counsellor Approved Reason (ACAR)
+
+SRA Link -->  Student Center : The Self-Reported Absence link is located on the right-hand side under Student Services Links. NOTE: YOU MUST STILL EMAIL YOUR PROFESSOR WITHIN 2 DAYS OF SUBMITTING IT IN ORDER TO FOLLOW UP WITH THE PROFESSOR. If you do not email your prof to notify them, the SRA will be void.  
+
+Valid Academic Counsellor Approved Reason--> Contact them here: https://registrar.uwo.ca/faculty_academic_counselling.html
+
+Assignment 1	Concept assignment. Use Draw.io or MS Visio. Then it must be scanned (or you could take photos with a digital camera/phone of each page and put the photos together into one pdf file) and then it must be submitted via OWL	9%	11:55pm, Friday, October 8	If you use a SRA or a ACAR you will get a 48 hour extension. If your academic counsellor advices, you might get more than 48 hours for an ACAR but you will NOT get more than 48 hours for a SRA
+Assignment 2	Building a database at the command prompt, writing SQL statements and running them. Scripts submitted to OWL.	11%	11:55pm, Friday, October 29	If you use a SRA or a ACAR you will get a 48 hour extension. If your academic counsellor advices, you might get more than 48 hours for an ACAR but you will NOT get more than 48 hours for a SRA
+Assignment 3	Building a database, writing JavaScript and PHP to connect to the database. Code submitted to OWL.	16%	11:55pm, Friday, November 26	If you use a SRA or a ACAR you will get a 48 hour extension. If your academic counsellor advices, you might get more than 48 hours for an ACAR but you will NOT get more than 48 hours for a SRA
+Virtual Machine Setup 	Setting up your virtual machine and testing MySQL and BitBucket - CANNOT BE LATE	1%	11:55pm, Wednesday, October 13 	If you use a SRA or a ACAR, the weight of the Virtual Machine Setup will move to the final exam. Note though --> you still must do this assignment at some point because you need the Virtual Machine for assignments 2 and 3. 
+PHP Setup	Writing some PHP code that creates a web page that talks to your database  - CANNOT BE LATE	1%	11:55pm, Sunday, October 24 	If you use a SRA or a ACAR, the weight of the PHP Setup will move to the final exam. Note though --> you still must do this assignment at some point because you need the Virtual Machine for assignment  3. 
+5 Quizzes	Multiple choice short (about 20-30 minutes) quizzes that review the previous 2 weeks worth of material	12% (each worth 3% - I will drop the lowest quiz )	The Monday class BEFORE the Flipped Classroom Sessions classes (available from 11:00 AM till 1:00PM on the following Monday class times Sept 20, Oct 4, Oct 18, Nov 8, Nov 22)	If you use a SRA or a ACAR, the weight of the missed quiz will move to the final exam. 
+5 Flipped Classrooms	You are required to come to 5 classes and you will be put into groups of 3. Your group of 3 must complete a worksheet and mark another group's worksheet. The 5 dates that you are required to attend the flipped classroom meetings are: 10:30am - 12:20pm are given to the right. Attendance is MANDATORY for these 5 dates!	10% (each worth 2%)	Tuesday, September 21, Tuesday October 5, Tuesday, October 19, Tuesday, November 9 and Tuesday, November 23 at 10:30am-12:20pm	If you use a SRA or a ACAR, the weight of the missed flipped classroom will move to the final exam. 
+Final Exam	Short Answer/Multiple Choice, 1 Review Sheet allowed during the exam.	40%	TBA	Not applicable
+Note: This schedule/weighing is subject to change.	 
+ 
+
+Exam and Quiz Information:
+Final Exam Info:
+Time, Date and Room:TBA
+Students are allowed to bring in one 8 1/2 by 11 inch review sheet that has writing on both sides (typed or handwritten, either is fine)..
+Students must get at least 30% on the final exam to pass the course and at least 40% on the final exam to get over 60% in the course. 
+Quiz Rules:
+There are 5 Quizzes:  Each will be a multiple choice quiz.
+The quiz will be given the day before the flipped classroom to ensure that you arrive at the flipped classroom prepared and ready to contribute to your group during the flipped classroom.
+The quizzes will be open (available for you to complete) on the given Monday above between 11AM and 1PM. 
+The quizzes should take approximately 30 minutes, you MUST be done the quiz by 12:55pm, so make sure you have started it by about 12:25pm. 
+Once you start the quiz, you have 30 minutes from the start time.
+The quiz will be delivered online via OWL. 
+Each quiz is worth 3%
+Your lowest quiz score will be dropped
+If you miss a quiz without reason (i.e. it was not approved by your academic counsellor), you will receive 0 
+If you have a valid reason (approved by your academic counsellor) for missing a quiz, you will receive whatever mark you get on the final exam as the mark for the missed quiz.
+If you miss a quiz and use a Self Reported Absence (SRA) for missing the quiz, you will receive whatever mark you get on the final exam as the mark for the missed quiz.
+Group Work Information:
+
+You may pick a group of 3 for this course using Owl or you may select a random group via Owl. The random group will be open till 3 people join it. This will be your group for the entire term. 
+
+Flipped Classroom Rules (done in groups of 3):
+Each flipped classroom is worth 2% of your final grade. 
+You will be put into random groups of 3 via Owl or you can create a group with your friends.  This will be your group for the entire term.  MDA 9159 students MUST work together (you must be in the a group with other MDA students)
+There are 5 flipped classrooms, approximately one every 2 or 3 weeks.  See dates above.
+These 5 dates are the ONLY dates where we will meet together in the classroom except for the very first class where we will go over things. All other work (lecture videos, assignments, quizzes) is done on your own time. 
+Make sure you have your laptop ready (charged with Internet access) and make sure you have your cell phone ready as backup
+You will be given ONE worksheet PER group.  Your group must answer the questions on the worksheet.
+After an allotted amount of time, groups will switch work with other groups and we will mark the work together.
+Upon leaving the classroom, you will hand in your worksheet to the teacher so that your groups receives the grade for this flipped class
+If you have a valid reason (approved by your academic counsellor) for missing a flipped classroom, you will receive whatever mark you get on the final exam as the mark for the missed flipped classroom.
+If you miss a flipped classroom and use a Self Reported Absence (SRA) for missing the quiz, the weight of the flipped classroom will be moved onto your final exam. 
+ 
+
+Assignment Information:
+Handing In Assignments: All assignments are to be submitted using OWL, assignment instructions will contain submission details.
+Late Assignment Policy for the 3 individual assignments:
+5% per day late will be deducted; no assignments more than 3 days late will be accepted. 
+NO reasons are ever considered for late assignments except for notifications from the Academic Counsellor in your Dean's Office or a Self Reported Absence.
+If you use a Self Reported Absence for your assignment(s), you will get a 48 hour extension on the assignment. 
+System problems  near or after the due date are NEVER considered as grounds for an extension (i.e. during the 3 days during which you can still hand in a late assignment)
+Cheating Policy:
+The first time you are caught cheating on an assignment, you will receive 0% for the assignment  AND the Dean of Science (and, if you are not a Science student, your Deans office) will be notified. The Dean will mark this offence in your file. The second time you are caught cheating you will be removed from the course, and the Dean of Science will be notified again and more severe consequences (such as being removed from the university) will be applied. It is better to hand in a partially finished assignment or a late assignment and get some marks than to cheat and get 0.
+Giving your code to someone else is considered as much a violation of the cheating policy as taking code from someone so NEVER give your code to another student and protect your code (don't leave memory sticks lying around in the labs, etc.)
+Working together is encouraged as it promotes learning, so you can help or ask other students for help, just never ever cut/copy and paste code, always discuss and explain but do not email/give code to ANYONE!.
+Extensions:
+Extensions may be granted only by the course instructor, not the t.a.s. Extensions will only be given if we hear from your Academic Counsellor.  If you have serious medical or compassionate grounds for an extension, you should follow the procedure for Academic Accommodation for Medical Illness as given below.
+Assignment Marking and Flipped Classroom Marking - NEW THIS YEAR --> PEER MARKING
+Assignments --> We will be doing peer marking this year using the system: https://www.kritik.io/  You will be assigned 5 or 6 other random students' assignments to mark. You have 3 days to mark the 5 - 6 other students assignments (it should take less than 15 minutes to mark each assignment).   You do NOT get extra time to do the marking (there is no extension for the marking) so if you don't complete your marking of the 5 - 6 assignments, you will lose roughly 10-20% of your overall assignment mark.  The peer marking is considered part of the assignment and is required work. Your mark for the portion representing your work will be the average of the five students who marked your assignment.   You will also have to give feedback to the 5 students who marked your assignment. You have ONE day to give the feedback (this part should take less than 5 minutes). The feedback mark can also NOT be late. This will also be included in your mark (about 5%).   You are responsible for checking your overall assignment mark in kritik.io  You will get 4 days to dispute the non-subjective items on the rubric by the peer markers, after you receive your mark from kritik.io. During these 4 days the teaching assistants and/or profs will check the disputes and fix any mistakes in marking.  Then the kritik.io assignment marks will be finalized. Once it is finalized, any requests for remarks will not be granted.  Once your grade is uploaded to Owl, you have 3 days to email your professor if you still have a question about your peer marking or feedback grade. But your creation grade will not adjusted after the dispute stage is over. 
+
+REMEMBER: No excuses for missed quizzes, late assignments or missed exams will be accepted under any condition without official notice from the Dean of Science's office unless you use a Self Reported Absence.  See above for how Self Reported Absences are dealt with depending on what you using it for.
+
+ 
+
+ACCESS TO LAB ROOMS IN MIDDLESEX COLLEGE
+After-hours access to Computer Science lab rooms is by student card. If a student card is lost, you will need to visit the Student Services Building to obtain a replacement.  As of 2018, the cost for a replacement card is $25.  More information is available at https://www.registrar.uwo.ca/services/western_onecard_and_photo_standards.html
+
+Students enrolled in Computer Science courses will be granted access to the labs within 7 days of enrollment.  If you do not have access to the labs after 7 days, please open a ticket with Science Technology Services at https://helpdesk.sci.uwo.ca.
+
+COVID19 Update: Middlesex College labs should be open from September to December.  NOTE: depending on the health situation of the province of Ontario, the use of lab rooms MAY change during the term
+
+EMAIL CONTACT
+We will occasionally need to send email messages to the whole class or to students individually. Email will be sent to the Western email address assigned to students by Information Technology Services (ITS). It is each student's responsibility to read this email on a frequent and regular basis, or have it forwarded to an alternative email address if preferred. See the ITS web site for directions on forwarding email. You are responsible for checking your email at least every 72 hours as this will be instructors main method of communicating with the students outside of lectures.
+
+However, you should note that email at ITS (your Western account) and other email providers such as hotmail.com or yahoo.com may have quotas or limits on the amount of space they can use. If you let your email accumulate there, your mailbox may fill up and you may lose important email from your instructors. Losing email that you have forwarded to an alternative email address is not an excuse for missing out on important information.
+
+You are encouraged to contact the course instructor via email, with brief, email appropriate questions regarding lecture material or clarification of assignments. However, please check the course web site for answers to frequently asked questions, or to see if the information is already there, before emailing the instructor.
+
+Note: You must send email from your Western account, and start the subject line with CS3319 followed by whatever else you want to put in the subject line. Other email may be filtered out. Please send email in plain text format.
+
+ 
+6. ACCOMMODATIONS AND ACCESSIBILITY
+Accommodation Policies
+
+Students with disabilities work with Accessible Education (formerly SSD) which provides recommendations for accommodation based on medical documentation or psychological and cognitive testing. The Academic Accommodation for Students with Disabilities policy can be found at:
+
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic Accommodation_disabilities.pdf
+
+Academic Consideration for Student Absences
+
+Students who experience an extenuating circumstance (illness, injury or other extenuating circumstance) sufficiently significant to temporarily render them unable to meet academic requirements may submit a request for academic consideration through the following routes:
+
+(i)      Submitting a Self-Reported Absence (SRA) form provided that the conditions for submission are met.  To be eligible for a Self-Reported Absence:
+
+• an absence must be no more than 48 hours
+
+• the assessments must be worth no more than 30% of the student’s final grade
+
+• no more than two SRAs may be submitted during the Fall/Winter term
+
+(ii)     For medical absences, submitting a Student Medical Certificate (SMC) signed by a licensed medical or mental health practitioner to the Academic Counselling office of their Faculty of Registration.
+
+(iii)    Submitting appropriate documentation for non-medical absences to the Academic Counselling office in their Faculty of Registration.
+
+Note that in all cases, students are required to contact their instructors within 24 hours of the end of the period covered, unless otherwise instructed in the course outline.
+
+
+Students should also note that individual instructors are not permitted to receive documentation directly from a student, whether in support of an application for consideration on medical grounds, or for other reasons.  All documentation required for absences that are not covered by the Self-Reported Absence Policy must be submitted to the Academic Counselling office of a student's Home Faculty.
+
+
+For the policy on Academic Consideration for Student Absences – Undergraduate Students in First Entry Programs, see:
+
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/accommodation_illness.pdf
+
+and for the Student Medical Certificate (SMC), see:
+
+http://www.uwo.ca/univsec/pdf/academic_policies/appeals/medicalform.pdf. 
+
+
+
+Religious Accommodation
+
+When a course requirement conflicts with a religious holiday that requires an absence from the University or prohibits certain activities, students should request accommodation for their absence in writing at least two weeks prior to the holiday to the course instructor and/or the Academic Counselling office of their Faculty of Registration.  Please consult University's list of recognized religious holidays (updated annually) at
+
+https://multiculturalcalendar.com/ecal/index.php?s=c-univwo.  
+
+
+
+Absences from Final Examinations
+
+If you miss the Final Exam, please contact the Academic Counselling office of your Faculty of Registration as soon as you are able to do so.  They will assess your eligibility to write the Special Examination (the name given by the University to a makeup Final Exam).
+
+
+You may also be eligible to write the Special Exam if you are in a “Multiple Exam Situation” (e.g., more than 2 exams in 23-hour period, more than 3 exams in a 47-hour period).
+
+7. ACADEMIC POLICIES
+The website for Registrarial Services is http://www.registrar.uwo.ca.
+
+In accordance with policy, https://wts.uwo.ca/identity/identities_and_access/index.html, the centrally administered e-mail account provided to students will be considered the individual’s official university e-mail address. It is the responsibility of the account holder to ensure that e-mail received from the University at his/her official university address is attended to in a timely manner.
+
+Scholastic offences are taken seriously and students are directed to read the appropriate policy, specifically, the definition of what constitutes a Scholastic Offence, at the following Web site:
+
+http://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf.
+
+Computer-marked multiple-choice tests and exams may be subject to submission for similarity review by software that will check for unusual coincidences in answer patterns that may indicate cheating.
+
+ 
+
+TUTORING
+The role of tutoring is to help students understand course material. Tutors should not write part or all of an assignment for the students who hire them. Having employed the same tutor as another student is not a legitimate defense against an accusation of collusion, should two students hand in assignments judged similar beyond the possibility of coincidence.
+
+8. SUPPORT SERVICES
+Please visit the Science & Basic Medical Sciences Academic Counselling webpage for information on add/drop courses, academic considerations for absences, appeals, exam conflicts, and many other academic related matters:  https://www.uwo.ca/sci/counselling/
+
+Please contact the course instructor if you require lecture or printed material in an alternate format or if any other arrangements can make this course more accessible to you. You may also wish to contact Student Accessibility Services (SAS) at (519) 661-2147 if you have any questions regarding accommodations.
+
+Western University is committed to a thriving campus as we deliver our courses in the mixed model of both virtual and face-to-face formats. We encourage you to check out the Digital Student Experience website to manage your academics and well-being: https://www.uwo.ca/se/digital/.
+
+Learning-skills counsellors at the Student Development Centre (http://www.sdc.uwo.ca) are ready to help you improve your learning skills. They offer presentations on strategies for improving time management, multiple-choice exam preparation/writing, textbook reading, and more. Individual support is offered throughout the Fall/Winter terms in the drop-in Learning Help Centre, and year-round through individual counselling.
+
+Students who are in emotional/mental distress should refer to Mental Health@Western (http://www.health.uwo.ca/mental_health) for a complete list of options about how to obtain help.
+
+Additional student-run support services are offered by the USC, http://westernusc.ca/services.
+
+ 
+
+9. COVID - 19 INFORMATION
+In the event that the COVID-19 situation worsens, then:
+
+Tests and examinations in this course will be conducted using a remote proctoring service.  By taking this course, you are consenting to the use of this software and acknowledge that you will be required to provide personal information (including some biometric data) and the session will be recorded.  Completion of this course will require you to have a reliable internet connection and a device that meets the technical requirements for this service.  More information about this remote proctoring service, including technical requirements, is available on Western’s Remote Proctoring website at:
+
+https://remoteproctoring.uwo.ca.
+
+In the event of a COVID-19 resurgence during the course that necessitates the course delivery moving away from face-to-face interaction, all remaining course content will be delivered entirely online, either synchronously (i.e., at the times indicated in the timetable) or asynchronously (e.g., posted on OWL for students to view at their convenience).  The grading scheme will not change.  Any remaining assessments will also be conducted online as determined by the course instructor.
+
+Students will be expected to wear triple layer non-medical masks at all times in the classroom as per Western policy and public health directives. Students who are unable to wear a mask for medical or religious reasons must seek formal accommodation through Accessible Education at aew@uwo.ca. Students are expected not to eat or drink while in class to ensure masks stay in place. Students will be able to eat and drink outside of the classroom during scheduled breaks. Students unwilling to wear a mask as stipulated by Western policy and public health directives will be referred to the Department, and such actions will be considered a violation of the student Code of Conduct.
+

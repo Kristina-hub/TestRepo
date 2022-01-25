@@ -1,0 +1,217 @@
+/*   ---------------------------------------    */
+/*           Authors: Kristina Kacmarova        */
+/*                   Miranda Postma       	    */
+/*                   Ridwan Bari                */
+/*                   Winston Herold             */
+/*          Python Version: 3.7.4               */
+/*          Created on: 2022-01-18              */
+/*   ---------------------------------------    */
+
+* {
+  	box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+  	font-family: Arial, Helvetica, sans-serif;
+  	margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  	padding: 10px;
+  	text-align: center;
+  	background: black;
+	color: white;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+  	font-size: 40px;
+}
+
+/* Sticky navbar - toggles between relative and fixed, depending on the scroll position. It is positioned relative until a given offset position is met in the viewport - then it "sticks" in place (like position:fixed). The sticky value is not supported in IE or Edge 15 and earlier versions. However, for these versions the navbar will inherit default position */
+.navbar {
+  	overflow: hidden;
+  	background-color: black;
+  	position: sticky;
+  	position: -webkit-sticky;
+  	top: 0;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  	float: left;
+  	display: block;
+  	color: white;
+  	text-align: center;
+  	padding: 25px 30px;
+  	text-decoration: none;
+  	font-weight: bold;
+}
+
+
+/* Right-aligned link */
+.navbar a.right {
+  	float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  	background-color: white;
+  	color: black;
+}
+
+/* Active/current link */
+.navbar a.active {
+  	background-color: white;
+  	color: black;
+}
+
+/* Column container */
+.row {  
+  	display: -ms-flexbox; /* IE10 */
+  	display: flex;
+  	-ms-flex-wrap: wrap; /* IE10 */
+  	flex-wrap: wrap;
+  	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.leftside {
+  	-ms-flex: 33.3%; /* IE10 */
+  	flex: 33.3%;
+  	background-color: white;
+  	padding: 20px;
+}
+
+/* Main column */
+.middle {   
+  	-ms-flex: 33.4%; /* IE10 */
+  	flex: 33.4%;
+  	background-color: white;
+  	padding: 20px;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.rightside {
+  	-ms-flex: 33.3%; /* IE10 */
+  	flex: 33.3%;
+  	background-color: white;
+  	padding: 20px;
+}
+
+
+
+
+
+
+.upload-button {
+    padding: 4px;
+    display: block;
+    float: left;
+	/* border: 1px solid black; */
+    /* border-radius: 5px; */
+}
+
+/* Change color on hover */
+.upload-button:hover {
+  	background-color: black;
+  	color: white;
+}
+
+.profile-pic {
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+}
+
+.file-upload {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+img {
+  	width: 100%;
+  	padding: 20px;
+  	object-fit: fill;
+}
+
+/* Footer */
+.footer {
+  	padding: 70px;
+  	text-align: center;
+  	background: black;
+  	color: white;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  	.row {   
+    	flex-direction: column;
+  	}
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  	.navbar a {
+    	float: none;
+    	width: 100%;
+  	}
+}
+
+
+
+
+
+
+
+.full {
+  position: relative;
+}
+
+.whitebox {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    color: black;
+    opacity: 0.9;
+    padding: 30px;
+
+/* 
+  border: 3px solid #f1f1f1;
+  text-align: left;
+  background-color: white;
+  color: black;
+  opacity: 0.7;
+ */
+}
+
+
+
+
+
+
+
+
+

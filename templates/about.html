@@ -1,0 +1,58 @@
+<!--  --------------------------------------- -->
+<!--       Authors: Kristina Kacmarova        -->
+<!--                Miranda Postma       	  -->
+<!--                Ridwan Bari               -->
+<!--                Winston Herold            -->
+<!--       Python Version: 3.7.4              -->
+<!--       Created on: 2022-01-18             -->
+<!--  --------------------------------------- -->
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<!-- import stylesheet -->
+    	<link rel="stylesheet" type="text/css" href="../static/css/about.css">
+    	<!-- icon of tab -->
+    	<link rel="shortcut icon" type="image/x-icon" href= "{{ url_for('static',filename='img/favicon.ico') }}">
+    	<!-- name of tab -->
+    	<title>Syllabi</title>
+	</head>
+	<body>
+		<div class="header">
+  			<h1 style="font-size: 30px;">Syllabi</h1>
+  			<h3>Upload you syllabus  |  Download your deadlines</h3>
+		</div>
+
+		<div class="navbar">
+  			<a href="/">HOME</a>
+  			<a href="/about/" class="active">ABOUT US</a>
+  			<a href="/tutorial/">TUTORIAL</a>
+  			<a href="/contact/" class="right">CONTACT US</a>
+		</div>
+
+		<div class="row">
+			<div class="leftside">
+				<img src="../static/img/month-1.jpg">
+				<h2>First year student?</h2>
+				<p>As a first year student, keeping track of upcoming deadlines is crucial to staying on top of one's work.</p>
+			</div>
+			<div class="middle">
+				<img src="../static/img/month-2.jpg">
+				<h2>Time Management</h2>
+				<p>By making it easier for students to put deadlines from their syllabus into their calendars, we hope to incentivize better time management.</p>
+			</div>
+			<div class="rightside">
+				<img src="../static/img/month-3.jpg">
+				<h2>Organization</h2>
+				<p>We extract assignment deadlines from your syllabus and input them into your calendar.</p>
+			</div>
+		</div>
+
+		<div class="footer">
+		</div>
+	</body>
+</html>
+
+

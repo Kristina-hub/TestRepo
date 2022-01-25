@@ -1,0 +1,181 @@
+The University of Western OntarioLondon, Canada
+Department of Computer Science
+CS3307A - Objected-Oriented Design and Analysis
+Course Outline - Fall 2021
+ 
+Course Description
+Software development comprises many activities (e.g., technical, managerial, governance, customer relations, market analysis, etc.) among which are those that take requirements as input, and yield, as output, software code that is intended to satisfy the requirements. In this development process is a key artefact, the design of the system, that embodies the various components of the system interacting with each other so as to provide the desired solution. Prior to, or even during, designing the system is the analysis of the environment in which the system is to operate, including discovering the system’s requirements. Arguably, without these two sets of activities – analysis and design -- in the development process, it would be difficult to build large-scale, quality systems.
+The most widely-used approach to system design and requirements analysis nowadays is the object-oriented approach. Here, the Unified Modeling Language (UML) notation is used to capture the user interaction with the system being built, and how the system will be structured, and how it will interact within to provide the desired outcomes.  Over the years, the software engineering community has identified many useful patterns of how system components are structured and how they interact with one another. Thus, the developer can attempt to reuse these patterns as partial solutions in the design of new systems, saving design time and costs and attaining higher quality. These design patterns can be implemented using object-oriented (OO) programming languages such as Java and C++.
+In this course, students will learn about object-oriented analysis and design, and will be introduced to the programming language C++. They will subsequently carry out specific assignments, and a group project where they are expected to design and implement a reasonably large-scale system in the language C++.
+ 
+Lecture Hours
+9:30 - 10:30am, Tuesdays, MC-110
+9:30 - 11:30am, Thursdays, MC-110
+ 
+Prerequisites: 
+  
+Either (Computer Science 2212A/B/Y) or (Computer Science 2210A/B, 2211A/B, Electrical and Computer Engineering 3375A/B, and registration in the fourth year of a BESc program in Computer Engineering or Mechatronic Systems Engineering.)
+ 
+Antirequisites:
+ 
+Software Engineering 3350A/B
+ 
+Note: Unless you have either the prerequisites for this course or written special permission from your Dean to enroll in it, you may be removed from this course and it will be deleted from your record. This decision may not be appealed. You will receive no adjustment to your fees in the event that you are dropped from a course for failing to have the necessary prerequisites.
+ 
+Instructor Information
+Instructor:
+   Michael Katchabaw
+Office:
+   Consulting via Zoom
+Office Hours:
+   2:00pm - 3:30pm, Tuesdays  
+E-Mail:
+   katchab@csd.uwo.ca
+Phone:
+   Western extension 84059
+ 
+About the Lectures
+Please note that this class is being delivered in-person.  In the event of a COVID-19 resurgence during the course that necessitates the course delivery moving away from face-to-face interaction, all remaining course content will be delivered entirely online, either synchronously (i.e., at the times indicated in the timetable) or asynchronously (e.g., posted on OWL for students to view at their convenience).  The grading scheme will not change.  Any remaining assessments will also be conducted online as determined by the course instructor.
+Students will be expected to wear triple layer non-medical masks at all times in the classroom as per Western policy and public health directives. Students who are unable to wear a mask for medical or religious reasons must seek formal accommodation through Accessible Education at aew@uwo.ca.
+Students are expected not to eat or drink while in class to ensure masks stay in place. Students will be able to eat and drink outside of the classroom during scheduled breaks.
+Students unwilling to wear a mask as stipulated by Western policy and public health directives will be referred to the Department, and such actions will be considered a violation of the student Code of Conduct. 
+Course Texts
+While there are no required texts for this course, the following books are recommended as references for this course, and may be available for purchase from the Book Store at Western:
+	•	The C++ Programming Language, 4th Edition by Bjarne Stroustrup, published by Addison-Wesley Professional, 2013.
+	•	Programming Principles and Practice Using C++, 2nd Edition by Bjarne Stroustrup, published by Addison-Wesley Professional, 2014.
+	•	Design Patterns:  Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, published by Addison-Wesley Professional, 1995
+	•	UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third Edition by Martin Fowler, published by Addison-Wesley Professional, 2004.
+	•	Object-Oriented Analysis and Design with Applications, Third Edition by Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Bobbi J. Young Ph.D., Jim Conallen, Kelli A. Houston.  Published by Addison-Wesley Professional, 2007.
+	•	Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux by Derek Molloy.  Published by Wiley, 2016.
+Additional references and suggested readings may be provided throughout the course as the project requires them. Please check back to the course website for updates and more information.
+ 
+Course Topics
+The course will address as many of the following topics as time will allow:
+	•	Overview of Object-Oriented programming
+	•	Programming in C++
+	•	The Unified Modeling Language (functional, structural, and behavioural modelling)
+	•	Architectural patterns
+	•	Design patterns (creational, structural, behavioural, ...)
+	•	Object-Oriented metrics and other software metrics
+	•	Quality Assurance (inspections) 
+	•	Enterprise-scale software and collaboration tools (Jira, Confluence, Bitbucket, ...)
+ 
+Lecture Notes
+Course lecture notes will be made available in PowerPoint and PDF formats on the course website on a weekly basis, as they are developed. They are provided as a courtesy by the course instructor. Possessing (and even reading) these notes is not a suitable substitute for the lectures.
+ 
+Course Website
+The CS3307A website is accessible through OWL at http://owl.uwo.ca. Class and project information will be posted on this website on a fairly regular basis. You are responsible for reading this information frequently.
+ 
+Computing Facilities
+Each student will have access to computing facilities administered by the Department of Computer Science and/or Western University. In accepting their accounts, students agree to abide by the Department's Rules of Ethical Conduct.  During this course, we may also make use of cloud infrastructure provided either by Western or by Amazon; details on this will be discussed in class.  Computing facilities will be accessible online, remotely.  Physical, in person access to labs and collaborative spaces will of course depend on the ever-changing COVID-19 situation on campus; please see the Department home page for more information and updates.
+Note: After-hours access to Computer Science lab rooms is by student card. If a student card is lost, you will need to visit the Student Services Building to obtain a replacement.  As of 2021, the cost for a replacement card is $32.  More information is available at https://registrar.uwo.ca/services/western_onecard_and_photo_standards.html.  Students enrolled in Computer Science courses will be granted access to the labs within 7 days of enrolment.  If you do not have access to the labs after 7 days, please open a ticket with Science Technology Services at https://helpdesk.sci.uwo.ca. 
+ 
+E-Mail Contact
+We will occasionally need to send e-mail messages to the whole class, or to students individually.  In accordance with policy (https://www.uwo.ca/univsec/pdf/policies_procedures/section1/mapp113.pdf), the centrally administered e-mail account provided to students will be considered the individual’s official university e-mail address.  It is the responsibility of the account holder to ensure that e-mail received from the University at his/her official university address is attended to in a timely manner.
+ 
+Student Evaluation
+Grades will be based on assignment and project work worth 70% and a final exam worth 30%. There will be one individual assignment (15%) and a group project (55%) split into separate deliverables including an initial stage (worth 5%), two intermediate stages (each worth 10%), the final project submission (25%), and final documentation (5%).
+To be eligible to receive a passing grade in the course, your mark on the final exam must be at least 40%, and your average on the assignment and project components must be at least 40%. Otherwise, the maximum overall mark you can receive is 45%. To be eligible to receive a grade of C or higher, your mark on the final exam must be at least 50%, and your weighted average on the assignment and project components must be at least 50%. Otherwise, the maximum overall mark you can receive is 58%.
+ 
+Assignment, Project, and Test Feedback
+Every effort will be made to have assignments and project components marked and handed back within 3 weeks of the handin date, preferably sooner. If we are unable to comply with our intended return dates, revised dates will be posted on the course website.
+ 
+Test and Exams
+Final:
+   3 hours during the December exam period
+As an important note, computer-marked multiple-choice tests and/or exams may be subject to submission for similarity review by software that will check for unusual coincidences in answer patterns that may indicate cheating. Furthermore, there will be no cheat sheets, books, or other reference materials allowed for the exam. No calculators, cell phones, or other electronic devices will be permitted either.
+If you miss the Final Exam, please contact the Academic Counselling office of your Faculty of Registration as soon as you are able to do so.  They will assess your eligibility to write the Special Examination (the name given by the University to a makeup Final Exam).
+You may also be eligible to write the Special Exam if you are in a “Multiple Exam Situation” (e.g., more than 2 exams in 23-hour period, more than 3 exams in a 47-hour period). 
+Assignment and Project Components
+Due Dates (tentative)
+Individual Assignment:
+  15% (medium)  
+Assigned September 14, 2021
+  Due October 5, 2021
+Group Project - Stage #1:
+  5% (light)
+Assigned September 14, 2021
+  Due September 28, 2021
+Group Project - Stage #2:
+  10% (light)
+Assigned September 21, 2021
+  Due October 12, 2021
+Group Project - Stage #3:
+  10% (medium)  
+Assigned October 12, 2021
+  Due November 9, 2021
+Group Project - Final Project Submission:
+  25% (heavy)
+Assigned November 9, 2021
+  Due November 30, 2021
+Group Project - Final Documentation:
+  5% (light)
+Assigned November 9, 2021
+  Due December 8, 2021
+If, for any reason, the project schedule given above cannot be adhered to, the project marks will be pro-rated. (The assignment and project components are worth 70% of the overall mark for the course. If a component has to be cancelled for any reason, the remaining project component weights will be prorated to add up to 70%.)
+ 
+About the Assignment and Project Components
+	•	Component descriptions will be posted on the course website by the dates listed above.
+	•	Any changes, updates, and clarifications to these descriptions will also be posted on the website. It is your responsibility to monitor these pages closely.
+	•	As mentioned earlier, the assignment and project components will involve design, analysis and implementation of a reasonably large-scale software system, implemented using C++.
+	•	While the project is a group project, grades will be assigned to each student based on both group and individual performance for each component. Individual performance will be based on a number of factors, some of which may include peer evaluations, contributions made during class, repository logs, individual reports of work completed, and so on.
+Submission
+	•	All components must be type-written for legibility and to facilitate electronic submission.  If components require the creation of diagrams or illustrations, these too must be done electronically.  Appropriate tools will be discussed in class and in the descriptions of the components.
+	•	You are required to submit each component electronically through OWL. (If final submissions are too large for OWL submission, alternate arrangements will be made.) Details will be given in the descriptions. We reserve the right to use similarity detection software to detect possible plagiarism cases.
+	•	Components are expected to be individual efforts (where individual could also mean designated group in the case of a group project component). Any code that is borrowed from an existing source or book must be clearly identified as such in the appropriate documentation; otherwise, this may constitute a plagiarism offence.
+ 
+Late Policy
+	•	Late components will be accepted for up to two days after the due date, with weekends counting as a single day; the late penalty is 20% of the available marks per day. Lateness is based on the time the assignment or project component is submitted.
+	•	Extensions will be granted only by your course instructor. If you have serious medical or compassionate grounds for an extension, you must take supporting documentation to the Academic Counselling unit of your faculty, who will contact the instructor.
+ 
+Marking
+	•	Assignment and project components are marked by the instructor and/or a teaching assistant assigned to the course. We will attempt to include some information about the marking criteria in the appropriate descriptions.
+	•	When marking has been completed, you will be informed via the course website and/or e-mail.
+	•	A request for adjustment in a mark must be made within 2 weeks of the date grades were first available. (Beyond that date, regrading will not be considered.) Such a request must be submitted in writing, and must include specific reasons why you believe you deserve more marks. The request must be accompanied by all materials that were originally handed in, as well as the original marker's grade summary sheet. Regrading requests will take a minimum of 24 to 48 hours to process; you will be informed when it is complete.
+	•	Component marks may be posted periodically throughout the term through OWL. It is your responsibility to check that your marks have been recorded correctly.
+ 
+Backups
+It is your responsibility to keep up-to-date backups of all assignment and project files in case of system crashes or inadvertently erased files. Retain copies of all material handed in, as well as the actual graded version, to guard against the possibility of lost components or errors in recording marks. It is not safe to discard these materials until you are satisfied that your final mark for the course has been computed properly.
+ 
+Tutoring
+The role of tutoring is to help students understand course material. Tutors should not write assignments, projects, or take-home tests for the students who hire them. Having employed the same tutor as another student is not a legitimate defense against an accusation of collusion, should two students hand in work judged similar beyond the possibility of coincidence.
+ 
+Academic Consideration for Student Absence
+Students who experience an extenuating circumstance (illness, injury or other extenuating circumstance) sufficiently significant to temporarily render them unable to meet academic requirements may submit a request for academic consideration through the following routes:
+	i	Submitting a Self-Reported Absence (SRA) form provided that the conditions for submission are met.  To be eligible for a Self-Reported Absence:
+	◦	an absence must be no more than 48 hours
+	◦	the assessments must be worth no more than 30% of the student’s final grade
+	◦	the assessments cannot be a group assessment as part of the group project
+	◦	no more than two SRAs may be submitted during the Fall/Winter term
+	ii	For medical absences, submitting a Student Medical Certificate (SMC) signed by a licensed medical or mental health practitioner to the Academic Counselling office of their Faculty of Registration.
+	iii	Submitting appropriate documentation for non-medical absences to the Academic Counselling office in their Faculty of Registration.
+Note that in all cases, students are required to contact their instructors within 24 hours of the end of the period covered, unless otherwise instructed in the course outline. 
+Students should also note that individual instructors are not permitted to receive documentation directly from a student, whether in support of an application for consideration on medical grounds, or for other reasons.  All documentation required for absences that are not covered by the Self-Reported Absence Policy must be submitted to the Academic Counselling office of a student's Home Faculty.
+For the policy on Academic Consideration for Student Absences - Undergraduate Students in First Entry Programs, see: https://www.uwo.ca/univsec/pdf/academic_policies/appeals/accommodation_illness.pdf and for the Student Medical Certificate (SMC), see: http://www.uwo.ca/univsec/pdf/academic_policies/appeals/medicalform.pdf.  
+ 
+Course Absences due to Daily COVID Screening Questionnaire
+Missed assessments (e.g., presentations, essays, quizzes, tests, midterms, etc.) require formal academic considerations (typically self-reported absences and/or academic counselling). Methods for dealing with missed work and course content are at the discretion of the instructor(s). Students should be aware that some learning outcomes cannot be easily made up and may need to be completed in a subsequent year. Your instructor will provide you with further information as to how this applies within this course.
+Students who demonstrate a pattern of routinely missing coursework due to self-reported COVID symptoms, and therefore do not demonstrate mastery of the learning outcomes of the course, will not receive credit for the course.
+ 
+Accommodation Policy
+Students with disabilities work with Accessible Education (formerly SSD) which provides recommendations for accommodation based on medical documentation or psychological and cognitive testing. The Academic Accommodation for Students with Disabilities policy can be found at:  https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic Accommodation_disabilities.pdf.
+ 
+Religious Accommodation
+When a course requirement conflicts with a religious holiday that requires an absence from the University or prohibits certain activities, students should request accommodation for their absence in writing at least two weeks prior to the holiday to the course instructor and/or the Academic Counselling office of their Faculty of Registration.  Please consult University's list of recognized religious holidays (updated annually) at:  https://multiculturalcalendar.com/ecal/index.php?s=c-univwo.  
+ 
+Ethical Conduct
+Scholastic offences are taken seriously and students are directed to read the appropriate policy, specifically, the definition of what constitutes a Scholastic Offence, at the following Web site: http://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf.
+Plagiarism: Students must write their essays and assignments in their own words. Whenever students take an idea, or a passage from another author, they must acknowledge their debt both by using quotation marks where appropriate and by proper referencing such as footnotes or citations. Plagiarism is a major academic offence. Please note, however, that students are not allowed to make use of the work of others unless explicitly instructed to do so in the description of an assignment.
+All projects are to be exclusively your own work. While project work requires you to work in teams, each team is expected to act individually. You may discuss approaches to problems among yourselves; however, the actual details of the work (coding, documentation, etc.) must be an individual effort. Incidents that are judged to be the result of academic dishonesty will be reported to the Undergraduate Chair. The selection of penalty to be applied is up to the Chair, with consultation of the instructor.
+The standard departmental penalty for assignments that are judged to be the result of academic dishonesty is, for the student's first offence, a mark of zero for the assignment, with the offence reported to the Dean of your home faculty. You are responsible for reading and respecting the Department of Computer Science's policy on Scholastic Offenses. and Rules of Ethical Conduct.
+The University of Western Ontario uses software for plagiarism checking. Students may be required to submit their written work and programs in electronic form for plagiarism checking.
+All required papers may be subject to submission for textual similarity review to the commercial plagiarism detection software under license to the University for detection of plagiarism. All papers submitted for such checking will be included as source documents in the reference database for the purpose of detecting plagiarism of papers subsequently submitted to the system. Use of the service is subject to the licensing agreement, currently between The University of Western Ontario and Turnitin.com (http://www.turnitin.com/).
+ 
+Support Services
+Please visit the Science & Basic Medical Sciences Academic Counselling webpage for information on add/drop courses, academic considerations for absences, appeals, exam conflicts, and many other academic related matters:  https://www.uwo.ca/sci/counselling
+Please contact the course instructor if you require lecture or printed material in an alternate format or if any other arrangements can make this course more accessible to you. You may also wish to contact Accessible Education (http://academicsupport.uwo.ca/accessible_education/index.html) at (519) 661-2147 if you have any questions regarding accommodations.
+Western University is committed to a thriving campus as we deliver our courses in the mixed model of both virtual and face-to-face formats. We encourage you to check out the Digital Student Experience website to manage your academics and well-being: https://www.uwo.ca/se/digital.
+Learning-skills counsellors at the Student Development Centre (http://www.sdc.uwo.ca) are ready to help you improve your learning skills. They offer presentations on strategies for improving time management, multiple-choice exam preparation/writing, textbook reading, and more. Individual support is offered throughout the Fall/Winter terms in the drop-in Learning Help Centre, and year-round through individual counselling.
+Students who are in emotional/mental distress should refer to Mental Health@Western (http://www.health.uwo.ca/mental_health) for a complete list of options about how to obtain help.
+Additional student-run support services are offered by the USC, http://westernusc.ca/your-services.
+The website for Registrarial Services is http://www.registrar.uwo.ca.

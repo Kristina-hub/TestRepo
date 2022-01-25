@@ -1,0 +1,175 @@
+Department of Computer Science
+COURSE OUTLINES (SYLLABI) FOR UNDERGRADUATE COURSES
+CS3346A/CS3121A/CS9146A Course Outline
+Introduction to Artificial Intelligence, Fall 2021
+1. Course Information
+Course Information
+The course is an introduction to Artificial Intelligence. We will cover the fundamentals used in the
+construction of intelligent agents, including heuristic search, computer games, probabilistic reasoning,
+Bayesian networks, machine learning, and so on.
+List of Prerequisites
+Either (Computer Science 2210A/B and 2211A/B or 2121A/B or (Software Engineering
+2203A/B, 2205A/B and 2250A/B); Computer Science 2209A/B, or registration in the BESc
+program in Computer Engineering or Software Engineering.. Please see Academic Calendar
+for details.
+Unless you have either the requisites for this course or written special permission from your Dean to
+enroll in it, you may be removed from this course and it will be deleted from your record. This decision
+may not be appealed. You will receive no adjustment to your fees in the event that you are dropped
+from a course for failing to have the necessary prerequisites.
+2. Instructor Information
+Dr. Charles Ling, Professor of Computer Science
+Email: charles.ling@uwo.ca (preferred way of contact), Office MC 374, x 83341
+Office hours: TBD
+3. Course Schedule, Delivery Mode
+Due to a special arrangement, approved by the Dean and Dept Chair, this course will be delivered
+online this term, via ZOOM. Here is the ZOOM link, https://westernuniversity.zoom.us/j/92554023362
+with passcode: 112233. More specifically:
+1. All lectures will be delivered in actual lecture time (Tu 1:30 to 2:30; Fri 1:30 to 3:30) via ZOOM, and
+recorded. The video will be uploaded on the same day for students to view and review.
+2. Midterm and final exams will be conducted in classrooms (closed-book exams, with extra rooms for
+exam-style spacing).
+3. Both on-campus (by appointment) and online office hours will be offered to meet students
+individually.
+As this is an online course, you must have a stable internet connection, computer with working
+microphone and/or webcam. In addition, ZOOM must be installed.
+Key Sessional Dates:
+Classes begin: September 8, 2021
+Reading Week: November 1–7, 2021
+Classes end: December 8, 2021
+4. Course Materials
+Textbook: Artificial Intelligence: A Modern Approach (3rd Ed; by Stuart J. Russell and Peter
+Norvig).
+Students are responsible for checking the course OWL site (http://owl.uwo.ca) on a regular basis for
+news and updates. This is the primary method by which information will be disseminated to all
+students in the class. In addition, if the TAs and instructor receive multiple emails about the
+same/similar questions, we will send out an Announcement via OWL, instead of replying to
+every email. Please review Announcements in OWL constantly.
+If students need assistance with the course OWL site, they can seek support on the OWL Help page.
+Alternatively, they can contact the Western Technology Services Helpdesk. They can be contacted by
+phone at 519-661-3800 or ext. 83800.
+5. Methods of Evaluation
+● Three assignments worth 15% each.
+● Midterm: 25%, tentatively scheduled on Nov 12 (in-class midterm)
+● Final Exam: 30% (covering the whole term)
+All assignments are due by midnight of the due date.
+Assignment 1: Due 10/6
+Assignment 2: Due 11/8
+Assignment 3: Due 12/8
+Late Assignment Policy of assignments:
+1 day late: -10%
+2 days late: -30%
+3 days late: -100%
+Accommodated Evaluations
+Generally, no extensions to assignments will be given (except for lengthy illness, or other
+compassionate grounds). In those cases where an extension is granted, the course instructor
+can grant the extension. If you have serious medical or compassionate grounds for an
+extension, you should take supporting documentation to the office of the Dean of your faculty,
+who will contact the instructor.
+There will be no makeup Midterm Exam, except for students requesting a Special Midterm
+Exam for religious reasons. These students must have notified the course instructor and filed
+documentation with their Dean's office at least 2 weeks prior to the Midterm Exam in question.
+If you miss the Midterm Exam for any other reason, and present valid documentation to the
+Dean's office, your Final Exam mark will be reweighted to include the weight of the Midterm
+Exam. You must notify the course instructor within a week of the missed Midterm Exam, and
+documentation must be received by your Dean's office within 2 weeks of the missed exam.
+If for any reason the assignment schedule given below cannot be adhered to, the assignment
+marks will be prorated. (The n assignments are worth k% of the overall mark for the course. If
+an assignment has to be cancelled for any reason, the remaining assignment weights will be
+prorated to add up to k%.)
+Every effort will be made to have assignments marked and handed back within 3 weeks of the
+handin date, preferably sooner.
+6. Student Absences
+Academic Consideration for Student Absences
+Students who experience an extenuating circumstance (illness, injury or other extenuating
+circumstance) sufficiently significant to temporarily render them unable to meet academic
+requirements may submit a request for academic consideration through the following routes:
+(i) Submitting a Self-Reported Absence (SRA) form provided that the conditions for submission are
+met. To be eligible for a Self-Reported Absence:
+• an absence must be no more than 48 hours
+• the assessments must be worth no more than 30% of the student’s final grade
+• no more than two SRAs may be submitted during the Fall/Winter term
+(ii) For medical absences, submitting a Student Medical Certificate (SMC) signed by a licensed
+medical or mental health practitioner to the Academic Counselling office of their Faculty of
+Registration.
+(iii) Submitting appropriate documentation for non-medical absences to the Academic Counselling
+office in their Faculty of Registration.
+Note that in all cases, students are required to contact their instructors within 24 hours of the end of
+the period covered, unless otherwise instructed in the course outline.
+Students should also note that individual instructors are not permitted to receive documentation
+directly from a student, whether in support of an application for consideration on medical grounds, or
+for other reasons. All documentation required for absences that are not covered by the Self-Reported
+Absence Policy must be submitted to the Academic Counselling office of a student's Home Faculty.
+For the policy on Academic Consideration for Student Absences – Undergraduate Students in First Entry
+Programs, see:
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/accommodation_illness.pdf
+and for the Student Medical Certificate (SMC), see:
+http://www.uwo.ca/univsec/pdf/academic_policies/appeals/medicalform.pdf.
+Religious Accommodation
+When a course requirement conflicts with a religious holiday that requires an absence from the
+University or prohibits certain activities, students should request accommodation for their absence in
+writing at least two weeks prior to the holiday to the course instructor and/or the Academic
+Counselling office of their Faculty of Registration. Please consult University's list of recognized religious
+holidays (updated annually) at
+https://multiculturalcalendar.com/ecal/index.php?s=c-univwo.
+Absences from Final Examinations
+If you miss the Final Exam, please contact the Academic Counselling office of your Faculty of
+Registration as soon as you are able to do so. They will assess your eligibility to write the Special
+Examination (the name given by the University to a makeup Final Exam).
+You may also be eligible to write the Special Exam if you are in a “Multiple Exam Situation” (e.g., more
+than 2 exams in 23-hour period, more than 3 exams in a 47-hour period).
+If a student fails to write a scheduled Special Examination, the date of the next Special Examination (if
+granted) normally will be the scheduled date for the final exam the next time this course is offered.
+The maximum course load for that term will be reduced by the credit of the course(s) for which the
+final examination has been deferred. See the Academic Calendar for details (under Special
+Examinations).
+6. Accommodation and Accessibility
+Accommodation Policies
+Students with disabilities work with Accessible Education (formerly SSD), which provides
+recommendations for accommodation based on medical documentation or psychological and cognitive
+testing. The policy on Academic Accommodation for Students with Disabilities can be found at:
+https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic Accommodation_disabilities.pdf,
+7. Academic Policies
+The website for Registrarial Services is http://www.registrar.uwo.ca.
+In accordance with policy,
+https://www.uwo.ca/univsec/pdf/policies_procedures/section1/mapp113.pdf,
+the centrally administered e-mail account provided to students will be considered the individual’s
+official university e-mail address. It is the responsibility of the account holder to ensure that e-mail
+received from the University at his/her official university address is attended to in a timely manner.
+Electronic devices will not be permitted on exams.
+Scholastic offences are taken seriously and students are directed to read the appropriate policy,
+specifically, the definition of what constitutes a Scholastic Offence, at the following Web site:
+http://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf.
+All required papers may be subject to submission for textual similarity review to the commercial
+plagiarism detection software under license to the University for the detection of plagiarism. All papers
+submitted for such checking will be included as source documents in the reference database for the
+purpose of detecting plagiarism of papers subsequently submitted to the system. Use of the service is
+subject to the licensing agreement, currently between The University of Western Ontario and
+Turnitin.com (http://www.turnitin.com).
+Assignments and exams may be subject to submission for similarity review by software that will check
+for unusual coincidences in answer patterns that may indicate cheating.
+In the event of health lock-down, examinations in this course may be conducted using a remote
+proctoring service. By taking this course, you are consenting to the use of this software and
+acknowledge that you will be required to provide personal information (including some biometric data)
+and the session will be recorded. Completion of this course will require you to have a reliable internet
+connection and a device that meets the technical requirements for this service. More information
+about this remote proctoring service, including technical requirements, is available on Western’s
+Remote Proctoring website at:
+https://remoteproctoring.uwo.ca.
+8. Support Services
+Please visit the Science & Basic Medical Sciences Academic Counselling webpage for information on
+adding/dropping courses, academic considerations for absences, appeals, exam conflicts, and many
+other academic related matters: https://www.uwo.ca/sci/counselling/.
+Please contact the course instructor if you require lecture or printed material in an alternate format or
+if any other arrangements can make this course more accessible to you. You may also wish to contact
+Accessible Education at (519) 661-2147 if you have any questions regarding accommodations.
+Western University is committed to a thriving campus as we deliver our courses in the mixed model of
+both virtual and face-to-face formats. We encourage you to check out the Digital Student Experience
+website to manage your academics and well-being: https://www.uwo.ca/se/digital/.
+Learning-skills counsellors at the Student Development Centre (http://www.sdc.uwo.ca) are ready to
+help you improve your learning skills. They offer presentations on strategies for improving time
+management, multiple-choice exam preparation/writing, textbook reading, and more. Individual
+support is offered throughout the Fall/Winter terms in the drop-in Learning Help Centre, and
+year-round through individual counselling.
+Students who are in emotional/mental distress should refer to Mental Health@Western
+(http://www.health.uwo.ca/mentalhealth) for a complete list of options about how to obtain help.
+Additional student-run support services are offered by the USC, http://westernusc.ca/services.
