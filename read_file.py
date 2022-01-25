@@ -55,7 +55,7 @@ class ReadFile():
 	@staticmethod
 	def txt_file(f, directory):
 		f = open(directory + f.filename, "r")
-		text = f.decode('utf-8').read()
+		text = f.read().decode('utf-8')
 		return text
 
 	@staticmethod
