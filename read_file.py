@@ -39,7 +39,7 @@ class ReadFile():
 		filelimit = image_counter-1
 		for i in range(1, filelimit + 1):
 			filename = "page_"+str(i)+".jpg"
-			pagetext = str(((tesseract.image_to_string(Image.open(directory + filename)))))
+			pagetext = str(((pytesseract.image_to_string(Image.open(directory + filename)))))
 			pagetext = pagetext.replace('-\n', '') 
 			text += pagetext 
 		return text
