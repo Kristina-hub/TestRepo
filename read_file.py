@@ -12,7 +12,8 @@ from werkzeug.datastructures import FileStorage		#pip install werkzeug
 import PyPDF2										#pip install PyPDF2
 import tempfile
 from PIL import Image								#pip install Pillow
-import pytesseract									#pip install pytesseract
+#import pytesseract									#pip install pytesseract
+import tesseract
 from pdf2image import convert_from_path				#pip install pdf2image
 import docx											#pip install docx  pip install python-docx
 
@@ -39,7 +40,7 @@ class ReadFile():
 		filelimit = image_counter-1
 		for i in range(1, filelimit + 1):
 			filename = "page_"+str(i)+".jpg"
-			pagetext = str(((pytesseract.image_to_string(Image.open(directory + filename)))))
+			pagetext = str(((tesseract.image_to_string(Image.open(directory + filename)))))
 			pagetext = pagetext.replace('-\n', '') 
 			text += pagetext 
 		return text
