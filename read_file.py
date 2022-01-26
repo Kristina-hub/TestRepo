@@ -18,7 +18,6 @@ import docx											#pip install docx  pip install python-docx
 
 class ReadFile():
 
-	@staticmethod
 	def text_pdf(f, directory):
 		text = ""
 		pdfFileObj = open(directory + f.filename, 'rb')
@@ -44,7 +43,6 @@ class ReadFile():
 			text += pagetext 
 		return text
 	
-	@staticmethod
 	def docx_file(f, directory):										#does not work for tables, headers, footers, foot notes
 		text = ""
 		doc = docx.Document(directory + f.filename)
@@ -52,13 +50,12 @@ class ReadFile():
 			text += para.text
 		return text
 	
-	@staticmethod
 	def txt_file(f, directory):
 		f = open(directory + f.filename, "r", encoding="utf-8")
 		text = f.read() #.decode('utf-8')
 		return text
 
-	@staticmethod
+	#@staticmethod
 	def read_func(f):
 		print("Enter: read_file.py")
 		print(type(f)) 													#FileStorage
