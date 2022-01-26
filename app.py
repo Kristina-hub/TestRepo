@@ -18,8 +18,8 @@ app = Flask(__name__)
 
 '''---------------From file.py import class----------------'''
 
-from read_file import ReadFile
-#from static.py.read_file import ReadFile					
+#from read_file import ReadFile
+from static.py.read_file import ReadFile					
 #from static.py.extract_dates import ExtractDates
 #from static.py.output import Output
 

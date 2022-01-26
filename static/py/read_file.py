@@ -51,10 +51,11 @@ class ReadFile():
 		return text
 	
 	def txt_file(f, directory):
-		f = open(directory + f.filename, "r")
-		text = f.read()
+		f = open(directory + f.filename, "r", encoding="utf-8")
+		text = f.read() #.decode('utf-8')
 		return text
 
+	#@staticmethod
 	def read_func(f):
 		print("Enter: read_file.py")
 		print(type(f)) 													#FileStorage
